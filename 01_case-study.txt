@@ -1,0 +1,32 @@
+In this circumstance, I think it is impossible for the IT company to achieve their target
+launch date of June 1 since there are still many task in progress and unresolved issues. 
+As a software engineer involved in the project, I think that it is time for the team to 
+adapt a project management tools to handle tasks efficiently and effectively, preventing
+delays and issues experienced such as incomplete tasks, unresolved bugs, and a delayed
+testing process. 
+
+Managing a project is a big responsibility requiring complex coordination of different
+teams and employees, all working in synchronization to achieve each milestone and successfully
+complete a project and its delivery. However, all businesses, wether big or small, deals 
+with many tasks, projects, plans, and people regularly. And it can be very challenging
+for these businesses to accomplish task efficiently if they don't practice any 
+project management tools. Project management tools are an indispensable part of a
+project and are used in planning, coordination, allocation of resources, time management,
+and performance monitoring. They are one of the essential parts of the software development 
+that can help business obtain a competitive benefit and stand out among competitors. 
+
+With project management tools, seamless collaboration can be accomplished. So when
+any team member has questions or concerns, they can quickly contact the right person
+and get immediate help. It also enables easy file sharing, documentation, and
+reporting with others to observe everybody's performance.  Moreover, a project management 
+tool gives you the ability to quickly set a hierarchy of tasks for effecient and effective 
+completion which allows you to indicate which actionsare sequential and which tasks are 
+dependent on one another. In turn, this makes it easier for the team to do their task. 
+
+
+Reference:
+
+7 reasons why project management tools are important - Zignuts Technolab. (n.d.). https://www.zignuts.com/blog/why-project-management-tools-are-important
+
+---
+
