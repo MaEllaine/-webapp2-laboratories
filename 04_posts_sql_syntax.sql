@@ -3,7 +3,7 @@ CREATE TABLE posts(
     title TEXT,
     body LONGTEXT,
     userId INT NOT NULL, 
-    FOREIGN KEY (userID) REFERENCES users(id);
+    FOREIGN KEY (userID) REFERENCES users(id)
 );
 
 INSERT INTO posts(user_id, title, body) VALUES
